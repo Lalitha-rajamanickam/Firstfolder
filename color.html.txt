@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> colors will be displayed here </title>
+</head>
+<body>
+<ul>
+<li> <font color="orange"> Orange </font> </li>
+<li> <font color="red"> Red </font> </li>
+<li> <font color="green"> Green </font> </li>
+</ul>
+</body>
